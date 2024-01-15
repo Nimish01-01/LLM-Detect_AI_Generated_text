@@ -1,4 +1,4 @@
-https://www.kaggle.com/code/nimishshukla/llm-detect-text/notebook?scriptVersionId=159008905
+https://www.kaggle.com/code/nimishshukla/llm-detect-text
 
 this project showcases the development of a text classification model using BERT, addressing the challenge of identifying generated content in essays. The journey involved data loading, exploration, preprocessing, model selection, training, and evaluation. While Distil BERT was considered, the time constraints led to the choice of the BERT model. The presented model demonstrates promising results and lays the foundation for future enhancements and explorations in the realm of natural language processing.
 
